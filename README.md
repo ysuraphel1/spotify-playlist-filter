@@ -1,4 +1,4 @@
-# Spotify Graduation Playlist Filter
+# Spotify Playlist Filter
 
 Two scripts for building a clean, vibe-curated graduation playlist from any Spotify source playlist.
 
@@ -42,7 +42,7 @@ export SPOTIFY_TARGET_URL="https://open.spotify.com/playlist/..."
 
 ## Scripts
 
-### `graduation_playlist.py` — CLI
+### `graduation_playlist.py (CLI)
 
 Processes the full source playlist and saves clean tracks directly to the target playlist.
 
@@ -56,7 +56,7 @@ Set `SKIP_EXPLICIT_SEARCH = False` at the top to search for clean versions of ex
 
 ---
 
-### `graduation_web.py` — Vibe Selector UI
+### `graduation_web.py` (Vibe Selector UI)
 
 A local web app that lets you visually filter tracks by vibe before saving.
 
