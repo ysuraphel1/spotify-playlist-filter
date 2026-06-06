@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.graduation_spotify_cache
+.spotify_cache
+.cache*
+*.env
