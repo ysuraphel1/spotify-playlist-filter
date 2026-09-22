@@ -1,6 +1,6 @@
 # Spotify Playlist Filter
 
-Two scripts for building a clean, vibe-curated graduation playlist from any Spotify source playlist.
+Two scripts for building a clean, vibe-curated playlist from any Spotify source playlist.
 
 ## What it does
 
@@ -42,7 +42,7 @@ export SPOTIFY_TARGET_URL="https://open.spotify.com/playlist/..."
 
 ## Scripts
 
-### `graduation_playlist.py (CLI)
+### graduation_playlist.py (CLI)
 
 Processes the full source playlist and saves clean tracks directly to the target playlist.
 
